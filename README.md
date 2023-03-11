@@ -29,7 +29,7 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 
 declined, etc.
 
-# pragma solidity >=0.5.0;
+# pragma solidity >=0.5.1;
 
 interface IERC20 {
 
